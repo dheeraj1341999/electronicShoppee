@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="CustomerServiceTest" project="project" tests="5" started="5" failures="0" errors="0" ignored="0">
+  <testsuite name="com.cg.es.service.CustomerServiceTest" time="1.134" displayname="CustomerServiceTest" uniqueid="[engine:junit-jupiter]/[class:com.cg.es.service.CustomerServiceTest]">
+    <testcase name="testExistsBynumber" classname="com.cg.es.service.CustomerServiceTest" time="1.032" displayname="exists by number" uniqueid="[engine:junit-jupiter]/[class:com.cg.es.service.CustomerServiceTest]/[method:testExistsBynumber()]"/>
+    <testcase name="testAdd" classname="com.cg.es.service.CustomerServiceTest" time="0.008" displayname="add customer" uniqueid="[engine:junit-jupiter]/[class:com.cg.es.service.CustomerServiceTest]/[method:testAdd()]"/>
+    <testcase name="testFindAll" classname="com.cg.es.service.CustomerServiceTest" time="0.006" displayname="CustomerDetails should retrive" uniqueid="[engine:junit-jupiter]/[class:com.cg.es.service.CustomerServiceTest]/[method:testFindAll()]"/>
+    <testcase name="testFindById" classname="com.cg.es.service.CustomerServiceTest" time="0.004" displayname="get by Id" uniqueid="[engine:junit-jupiter]/[class:com.cg.es.service.CustomerServiceTest]/[method:testFindById()]"/>
+    <testcase name="testExistsByEmail" classname="com.cg.es.service.CustomerServiceTest" time="0.084" displayname="exists by Email" uniqueid="[engine:junit-jupiter]/[class:com.cg.es.service.CustomerServiceTest]/[method:testExistsByEmail()]"/>
+  </testsuite>
+</testrun>
